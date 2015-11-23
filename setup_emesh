@@ -1,4 +1,7 @@
 git clone https://github.com/adafruit/Adafruit_Python_BMP.git
 
+cd /home/pi/emesh_system/rpiSht1x-1.2/
 python /home/pi/emesh_system/rpiSht1x-1.2/setup.py
+
+cd /home/pi/emesh_system/Adafruit_Python_BMP/
 python /home/pi/emesh_system/Adafruit_Python_BMP/setup.py
