@@ -1,0 +1,3 @@
+sudo python /home/pi/emesh_system/rpiSht1x-1.2/setup.py
+sudo python /home/pi/emesh_system/quick2wire-python-api/setup.py
+sudo python /home/pi/emesh_system/Adafruit_Python_BMP/setup.py
